@@ -1,0 +1,151 @@
+/* Global Styles */
+
+html {
+  font-size: 18px;
+  font-family: helvetica;
+
+}
+
+body {
+  font-family: "Helvetica", sans-serif;
+  line-height: 1.4em;
+}
+
+h1,
+h4 {
+  font-weight: bold;
+}
+
+
+.container {
+  max-width:960px;
+  margin: 0 auto;
+
+}
+
+/* Header */
+
+.company {
+  background-color: rgba(0, 0, 0, 1);
+  color: rgba(255,255,255, 1);
+
+}
+
+.company .container {
+  display: flex;
+  align-items: center;
+  padding: .66rem 0 .66rem 0.5rem;
+
+}
+
+ .company img {
+  height: 1.5rem;
+  padding-right: 1rem;
+}
+
+
+
+
+/* Main Container (Motocycle Image) */
+
+.main-banner {
+  background: url("../images/moto-main-banner.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25rem;
+
+}
+
+
+.headline {
+  position: relative;
+  top: 9rem;
+  width: 20rem;
+  padding: 2rem 3rem;
+  background-color:  rgba(0, 0, 0, 1);
+  color: rgba(255,255,255, 1);
+}
+
+
+.headline h1 {
+  margin: .25rem 0;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+
+/* Navigation Bar */
+
+
+nav {
+  background-color: rgba(178, 34, 34, 1);
+  color:rgba(255,255,255, 1);
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 0;
+}
+
+.mobile-nav {
+  display: none;
+}
+
+/* Products and Business Info */
+
+.products,
+.business-info {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+
+.product {
+  width: 30%;
+}
+
+.product-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 9rem;
+  padding: 2rem 0;
+  border: 4px solid rgba(0, 0, 0, 1);
+}
+
+.product-image img {
+  max-width: 8rem;
+}
+
+.description {
+  display: block;
+  padding: .5rem;
+  background-color: rgba(0, 0, 0, 1);
+  text-align: center;
+  color: rgba(255,255,255, 1);
+}
+
+.info {
+  width: 35%;
+}
+
+.info .title {
+  display: block;
+  padding: 1rem 2rem;
+  background-color: rgba(0, 0, 0, 1);
+  color: rgba(255,255,255, 1);
+}
+
+
+  /* Footer */
+
+  footer {
+  padding: 5rem 0;
+  margin-top: 4rem;
+  background-color: rgba(0, 0, 0, 1);
+  color: rgba(255,255,255, 1);
+  text-align: left;
+}
