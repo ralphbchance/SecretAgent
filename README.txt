@@ -9,5 +9,9 @@ without deleting the contents of the local directory(SecretAgentSupply).
 5. git add and git commit of the above file
 6. Went to github and set up remote repository(SecretAgent),then
 followed their instructions to connect local and remote together!
+
+
+New Problem via Windows 7 Notebook computer, trying resolve now.
+
  
 
