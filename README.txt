@@ -13,7 +13,5 @@ followed their instructions to connect local and remote together!
 
 New Problem via Windows 7 Notebook computer, trying resolve now.
 
-Problem not resolved
-
- 
-
+Problem not resolved. The problem/remedy: Must enter username and passwood
+for push from local to remote.
