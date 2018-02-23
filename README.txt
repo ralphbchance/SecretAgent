@@ -5,9 +5,9 @@ Having  connection problems.
 without deleting the contents of the local directory(SecretAgentSupply).
 2. Change the name of the local directory to SecretAgent.
 3. git init for SecretAgent
-4. created a README.txt file
+4. Created a README.txt file
 5. git add and git commit of the above file
-6. went to github and set up remote repository(SecretAgent),then
-followed their instructions to connect local and together!
+6. Went to github and set up remote repository(SecretAgent),then
+followed their instructions to connect local and remote together!
  
 
