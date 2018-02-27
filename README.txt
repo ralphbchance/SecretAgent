@@ -1,9 +1,6 @@
 Making Git repository of SecretAgentSupply.
 Having  connection problems.
 
-Making Git repository of SecretAgentSupply.
-Having  connection problems.
-
 1. Problems was fixed by deleting local(git init info) and remote repositories
 without deleting the contents of the local directory(SecretAgentSupply).
 2. Change the name of the local directory(SecretAgentSupply) to SecretAgent.
@@ -15,5 +12,6 @@ followed their instructions to connect local and remote together!
 
 
 As of February 26, 2018 all problems mention in original README.txt file 
-$s been pushed to GitHub!          
+has been resolved and a copy of the Secret Service project is now completed and pushed 
+to GitHub!          
 
